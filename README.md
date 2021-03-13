@@ -22,7 +22,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/RubaDOD.gif' title='Video Walkthrough' width='250' height='400' alt='Video Walkthrough' />
+
+If the file doesn't load, please click the link:
+[GIF](https://i.imgur.com/RubaDOD.gif)
 
 # Project 3 - *Twitter*
 
